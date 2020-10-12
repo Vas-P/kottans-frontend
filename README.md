@@ -1,5 +1,5 @@
-# Kottans-frontend course
-Repo for Kottans frontend course
+# Kottans-frontend course from [Kottans](https://kottans.org/)
+Repo for Kottans frontend course.
 
 #Git
 
