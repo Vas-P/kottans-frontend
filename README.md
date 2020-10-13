@@ -28,11 +28,11 @@ I was familiar with git / github for a long time, but I used it only from github
 
 **Some useful screens**
 
-[chmod](https://github.com/Vas-P/kottans-frontend/blob/task_linux_cli/linux.png)
+[chmod](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/linux.png)
 
-[Linux quiz 3](https://github.com/Vas-P/kottans-frontend/blob/task_linux_cli/quiz3-linux.png)
+[Linux quiz 3](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/quiz3-linux.png)
 
-[Linux quiz 4](https://github.com/Vas-P/kottans-frontend/blob/task_linux_cli/quiz4-linux.png)
+[Linux quiz 4](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/quiz4-linux.png)
 
 * URLs
 
@@ -54,7 +54,7 @@ To get commits from a source repository into your forked repository on GitHub yo
 
 **Some useful screens**
 
-[git_log](https://github.com/Vas-P/kottans-frontend/blob/task_git_collaboration/git_log.png)
+[git_log](https://github.com/Vas-P/kottans-frontend/blob/main/task_git_collaboration/git_log.png)
 
 to make sure I'm on the correct branch for meging
 * $ git checout master
