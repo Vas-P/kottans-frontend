@@ -64,3 +64,10 @@ send "somebody's" changes to "my" remote
 * $ git push origin master
 
 ![](task_git_collaboration/github_coll.png)
+
+**Useful links**
+
+[ohshitgit.com](https://ohshitgit.com) - ![](images/noice.png)
+
+[git-flight-rules](https://github.com/k88hudson/git-flight-rules)
+
