@@ -29,7 +29,9 @@ I was familiar with git / github for a long time, but I used it only from github
 **Some useful screens**
 
 [chmod](../task_linux_cli/linux.png)
+
 [linux quiz 3](../task_linux_cli/quiz3-linux.png)
+
 [linux quiz 4](../task_linux_cli/quiz4-linux.png)
 
 * URLs
