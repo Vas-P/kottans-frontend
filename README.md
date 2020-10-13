@@ -28,9 +28,9 @@ I was familiar with git / github for a long time, but I used it only from github
 
 **Some useful screens**
 
-[chmod](task_linux_cli/linux.png)
-[linux quiz 3](task_linux_cli/quiz3-linux.png)
-[linux quiz 4](task_linux_cli/quiz4-linux.png)
+[chmod](../task_linux_cli/linux.png)
+[linux quiz 3](../task_linux_cli/quiz3-linux.png)
+[linux quiz 4](../task_linux_cli/quiz4-linux.png)
 
 * URLs
 
@@ -52,7 +52,7 @@ To get commits from a source repository into your forked repository on GitHub yo
 
 **Some useful screens**
 
-[git_log](task_git_collaboration/git_log.png)
+[git_log](../task_git_collaboration/git_log.png)
 
 to make sure I'm on the correct branch for meging
 * $ git checout master
