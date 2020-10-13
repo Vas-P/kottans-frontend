@@ -3,26 +3,27 @@ Repo for Kottans frontend course.
 
 # Git
 
-С git / github знаком был давно, но использовал только через github desktop. Узнал много полезных вещей=)
+I was familiar with git / github for a long time, but I used it only from github desktop. Learned a lot of useful things =)
 
-**Закончил курс по git and github на udacity**
+
+**Finished course git/github at udacity**
 
 ![](images/git-udacity.png)
 
 
 # Linux, Command Line, HTTP Tools
 
-* mkdir - создать новую дир 
-* cd - сменить местополежие
-* pwd - текущее местоположение
-* ls - контент текущей директории
-* mv - для переименований и для переноса контента
-* more - контент текущего файла
-* cp - копирование из одной дир в другую
-* rm - удаление из опред. дир 
-* rmdir - удаление опред. дир
-* chmod - управление правами
-* man - узнать комманды, например: 'man -k user' 
+* mkdir - create new dir 
+* cd - change location
+* pwd - current location
+* ls - current dir content
+* mv - renaming and transferring content
+* more - current file content
+* cp - copying from one dir to another
+* rm - remove from spec dir
+* rmdir - remove spec dir
+* chmod - rights administration
+* man - check commands, for example: 'man -k user' 
 * df - disk usage
 
 ![](images/linux1.png)
