@@ -8,7 +8,7 @@ I was familiar with git / github for a long time, but I used it only from github
 
 **Finished course git/github at udacity**
 
-![](task_linux_cli/git-udacity.png)
+![](images/git-udacity.png)
 
 
 ## Linux CLI, and HTTP
