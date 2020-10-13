@@ -1,4 +1,4 @@
-## Kottans-frontend course from [Kottans](https://kottans.org/)
+# Kottans-frontend course from [Kottans](https://kottans.org/)
 Repo for Kottans frontend course.
 
 ## Git
@@ -30,7 +30,7 @@ I was familiar with git / github for a long time, but I used it only from github
 ![](task_linux_cli/quiz3-linux.png)
 ![](task_linux_cli/quiz4-linux.png)
 
-# URLs
+* URLs
 
 ![](task_linux_cli/URLs.png)
 
