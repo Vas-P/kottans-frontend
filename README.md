@@ -1,7 +1,7 @@
-# Kottans-frontend course from [Kottans](https://kottans.org/)
+## Kottans-frontend course from [Kottans](https://kottans.org/)
 Repo for Kottans frontend course.
 
-# Git
+## Git
 
 I was familiar with git / github for a long time, but I used it only from github desktop. Learned a lot of useful things =)
 
@@ -11,7 +11,7 @@ I was familiar with git / github for a long time, but I used it only from github
 ![](images/git-udacity.png)
 
 
-# Linux, Command Line, HTTP Tools
+## Linux CLI, and HTTP
 
 * mkdir - create new dir 
 * cd - change location
@@ -26,6 +26,11 @@ I was familiar with git / github for a long time, but I used it only from github
 * man - check commands, for example: 'man -k user' 
 * df - disk usage
 
-![](images/linux1.png)
-![](images/quiz3-linux.png)
-![](images/quiz4-linux.png)
+![](task_linux_cli/linux1.png)
+![](task_linux_cli/quiz3-linux.png)
+![](task_linux_cli/quiz4-linux.png)
+
+# URLs
+
+![](task_linux_cli/URLs.png)
+
