@@ -8,7 +8,7 @@ I was familiar with git / github for a long time, but I used it only from github
 
 **Finished course git/github at udacity**
 
-![](images/git-udacity.png)
+![](task_linux_cli/git-udacity.png)
 
 
 ## Linux CLI, and HTTP
@@ -26,17 +26,17 @@ I was familiar with git / github for a long time, but I used it only from github
 * man - check commands, for example: 'man -k user' 
 * df - disk usage
 
-![](task_linux_cli/linux1.png)
-![](task_linux_cli/quiz3-linux.png)
-![](task_linux_cli/quiz4-linux.png)
+**Some useful screens**
+
+[](task_linux_cli/linux1.png)
+[](task_linux_cli/quiz3-linux.png)
+[](task_linux_cli/quiz4-linux.png)
 
 * URLs
 
 ![](task_linux_cli/URLs.png)
 
 ## Git Collaboration
-
-**Recap**
 
 When working with a project that you've forked. The original project's maintainer will continue adding changes to their project. You'll want to keep your fork of their project in sync with theirs so that you can include any changes they make.
 
@@ -50,6 +50,8 @@ To get commits from a source repository into your forked repository on GitHub yo
 * merge the **upstream**'s branch into a local branch
 * push the newly updated local branch to your **origin** repo
 
-![](task_git_collaboration/git_log.png)
-![](task_git_collaboration/git_coll.png)
-![](task_git_collaboration/github_coll.png)
+**Some useful screens**
+
+[](task_git_collaboration/git_log.png)
+[](task_git_collaboration/git_coll.png)
+[](task_git_collaboration/github_coll.png)
