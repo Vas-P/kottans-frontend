@@ -67,7 +67,8 @@ send "somebody's" changes to "my" remote
 
 **Useful links**
 
-[ohshitgit.com](https://ohshitgit.com) - ![](images/noice.png)
+[ohshitgit.com](https://ohshitgit.com) - 
+										![](images/noice.png)
 
 [git-flight-rules](https://github.com/k88hudson/git-flight-rules)
 
