@@ -28,11 +28,11 @@ I was familiar with git / github for a long time, but I used it only from github
 
 **Some useful screens**
 
-[chmod](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/linux.png)
+* [chmod](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/linux.png)
 
-[Linux quiz 3](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/quiz3-linux.png)
+* [Linux quiz 3](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/quiz3-linux.png)
 
-[Linux quiz 4](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/quiz4-linux.png)
+* [Linux quiz 4](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/quiz4-linux.png)
 
 * URLs
 
