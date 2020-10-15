@@ -71,3 +71,17 @@ send "somebody's" changes to "my" remote
 
 * [git-flight-rules](https://github.com/k88hudson/git-flight-rules)
 
+## Intro to HTML and CSS
+
+Recently studied html and css, nothing new to me. Repeated some things like grid.
+
+![](task_html_css_intro/html_css_intro.png)
+
+![](task_html_css_intro/There's_got_to_be_a_better_way) - **There's got to be a better way**
+
+* https://github.com/Vas-P/kottans-frontend/blob/main/task_html_css_intro/codecademy_html.png
+
+* https://github.com/Vas-P/kottans-frontend/blob/main/task_html_css_intro/codecademy_css.png
+
+
+
