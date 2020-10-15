@@ -77,7 +77,7 @@ Recently studied html and css, nothing new to me. Repeated some things like grid
 
 ![](task_html_css_intro/html_css_intro.png)
 
-![](task_html_css_intro/There's_got_to_be_a_better_way) - **There's got to be a better way**
+![](task_html_css_intro/There's_got_to_be_a_better_way.png) - **There's got to be a better way**
 
 * https://github.com/Vas-P/kottans-frontend/blob/main/task_html_css_intro/codecademy_html.png
 
