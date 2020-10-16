@@ -153,5 +153,13 @@ It was not easy, but I am sure I will understand a couple of things later. More 
 
 </p>
 </details>
+<details><summary>Gridgarden</summary>
+<p>
+
+![Screenshot-image-link](task_responsive_web_design/gridgarden.png)
+
+</p>
+</details>
+
 
 
