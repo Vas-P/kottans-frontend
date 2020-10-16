@@ -28,6 +28,14 @@ I was familiar with git / github for a long time, but I used it only from github
 
 **Some useful screens**
 
+<details><summary>chmod</summary>
+<p>
+
+![Screenshot-image-link](task_linux_cli/linux.png)
+
+</p>
+</details>
+
 * [chmod](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/linux.png)
 
 * [Linux quiz 3](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/quiz3-linux.png)
