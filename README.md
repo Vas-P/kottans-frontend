@@ -94,14 +94,14 @@ send "somebody's" changes to "my" remote
 <details><summary>learngitbranching_1</summary>
 <p>
 
-![Screenshot-image-link](task_git_collaboration/learngitbranching_1.png)
+![Screenshot-image-link](task_git_collaboration/learngitbranching_1st.png)
 
 </p>
 </details>
 <details><summary>learngitbranching_2</summary>
 <p>
 
-![Screenshot-image-link](task_git_collaboration/learngitbranching_2.png)
+![Screenshot-image-link](task_git_collaboration/learngitbranching_2nd.png)
 
 </p>
 </details>
