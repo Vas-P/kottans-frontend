@@ -22,7 +22,7 @@ I was familiar with git / github for a long time, but I used it only from github
 * cp - copying from one dir to another
 * rm - remove from spec dir
 * rmdir - remove spec dir
-* chmod - rights administration
+* chmod - permissions
 * man - check commands, for example: 'man -k user' 
 * df - disk usage
 
@@ -121,6 +121,20 @@ Recently studied html and css, nothing new to me. Repeated some things like grid
 <p>
 
 ![Screenshot-image-link](task_html_css_intro/codecademy_css.png)
+
+</p>
+</details>
+
+## Responsive Web Design
+
+It was not easy, but I am sure I will understand a couple of things later. More practice - more confidence. 
+
+![](task_responsive_web_design/Responsive.png)
+
+<details><summary>Froggy</summary>
+<p>
+
+![Screenshot-image-link](task_responsive_web_design/froggy.png)
 
 </p>
 </details>
