@@ -35,6 +35,27 @@ I was familiar with git / github for a long time, but I used it only from github
 
 </p>
 </details>
+<details><summary>Linux quiz 3</summary>
+<p>
+
+![Screenshot-image-link](task_linux_cli/quiz3-linux.png)
+
+</p>
+</details>
+<details><summary>Linux quiz 4</summary>
+<p>
+
+![Screenshot-image-link](task_linux_cli/quiz4-linux.png)
+
+</p>
+</details>
+<details><summary>URLs</summary>
+<p>
+
+![Screenshot-image-link](task_linux_cli/URLs.png)
+
+</p>
+</details>
 
 * [chmod](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/linux.png)
 
