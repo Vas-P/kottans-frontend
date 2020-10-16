@@ -57,15 +57,6 @@ I was familiar with git / github for a long time, but I used it only from github
 </p>
 </details>
 
-* [chmod](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/linux.png)
-
-* [Linux quiz 3](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/quiz3-linux.png)
-
-* [Linux quiz 4](https://github.com/Vas-P/kottans-frontend/blob/main/task_linux_cli/quiz4-linux.png)
-
-* URLs
-
-![](task_linux_cli/URLs.png)
 
 ## Git Collaboration
 
@@ -83,7 +74,13 @@ To get commits from a source repository into your forked repository on GitHub yo
 
 **Some useful screens**
 
-[git_log](https://github.com/Vas-P/kottans-frontend/blob/main/task_git_collaboration/git_log.png)
+<details><summary>git_log</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/git_log.png)
+
+</p>
+</details>
 
 to make sure I'm on the correct branch for meging
 * $ git checout master
@@ -106,11 +103,26 @@ Recently studied html and css, nothing new to me. Repeated some things like grid
 
 ![](task_html_css_intro/html_css_intro.png)
 
-![](task_html_css_intro/There's_got_to_be_a_better_way.png) - **There's got to be a better way**
+<details><summary>There's got to be a better way</summary>
+<p>
 
-* [codecademy_html](https://github.com/Vas-P/kottans-frontend/blob/main/task_html_css_intro/codecademy_html.png)
+![Screenshot-image-link](task_html_css_intro/There's_got_to_be_a_better_way.png) - **There's got to be a better way**
 
-* [codecademy_css](https://github.com/Vas-P/kottans-frontend/blob/main/task_html_css_intro/codecademy_css.png)
+</p>
+</details>
+<details><summary>Codecademy_html</summary>
+<p>
 
+![Screenshot-image-link](task_html_css_intro/codecademy_html.png)
+
+</p>
+</details>
+<details><summary>Codecademy_css</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/codecademy_css.png)
+
+</p>
+</details>
 
 
