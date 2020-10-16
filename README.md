@@ -91,6 +91,21 @@ send "somebody's" changes to "my" remote
 
 ![](task_git_collaboration/github_coll.png)
 
+<details><summary>learngitbranching_1</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/learngitbranching_1.png)
+
+</p>
+</details>
+<details><summary>learngitbranching_2</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/learngitbranching_2.png)
+
+</p>
+</details>
+
 **Useful links**
 
 * [ohshitgit.com](https://ohshitgit.com) - **cool stuff**
