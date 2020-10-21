@@ -161,5 +161,7 @@ It was not easy, but I am sure I will understand a couple of things later. More 
 </p>
 </details>
 
+## HTML & CSS Practice
 
+![Demo](https://vas-p.github.io/kottans-popup)
 
