@@ -142,7 +142,7 @@ Recently studied html and css, nothing new to me. Repeated some things like grid
 
 ## Responsive Web Design
 
-It was not easy, but I am sure I will understand a couple of things later. More practice - more confidence. 
+Interesting, repeated few things for myself.
 
 ![](task_responsive_web_design/Responsive.png)
 
@@ -165,3 +165,29 @@ It was not easy, but I am sure I will understand a couple of things later. More 
 
 [Demo](https://vas-p.github.io/kottans-popup)
 
+## JS Basics
+
+It was not easy, but I am sure I will understand a couple of things later. More practice - more confidence.
+
+<details><summary>Some usefull screens</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/screenshot_1.png)
+![Screenshot-image-link](task_js_basics/screenshot_2.png)
+![Screenshot-image-link](task_js_basics/screenshot_3.png)
+![Screenshot-image-link](task_js_basics/screenshot_4.png)
+![Screenshot-image-link](task_js_basics/screenshot_5.png)
+![Screenshot-image-link](task_js_basics/screenshot_6.png)
+
+</p>
+</details>
+
+![](task_js_basics/Screenshot_7.png)
+
+<details><summary>freeCodeCamp_js</summary>
+<p>
+
+![](task_js_basics/Screenshot_8.png)
+
+</p>
+</details>
