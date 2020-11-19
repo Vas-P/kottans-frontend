@@ -169,31 +169,50 @@ Interesting, repeated few things for myself.
 
 It was not easy, but I am sure I will understand a couple of things later. More practice - more confidence.
 
-<details><summary>Some usefull screens</summary>
+
+<details><summary>Logical operators</summary>
 <p>
-	<details>
-		<summary>Logical operators</summary>
-		<p>
-			![Screenshot-image-link](task_js_basics/Screenshot_1.png)
-		</p>
-	</details>
-	<details>
-		<summary>falsy values</summary>
-		<p>
-			![Screenshot-image-link](task_js_basics/Screenshot_2.png)
-		</p>
-	</details>
-		![Screenshot-image-link](task_js_basics/Screenshot_2.png)
-		![Screenshot-image-link](task_js_basics/Screenshot_3.png)
-		![Screenshot-image-link](task_js_basics/Screenshot_4.png)
-		![Screenshot-image-link](task_js_basics/Screenshot_5.png)
-		![Screenshot-image-link](task_js_basics/Screenshot_6.png)
 
+![Screenshot-image-link](task_js_basics/Screenshot_1.png)
 
-Ternary operator
-switch case
-some help
-Variable Declaration
+</p>
+</details>
+
+<details><summary>falsy values</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/Screenshot_2.png)
+
+</p>
+</details>
+<details><summary>Ternary operator</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/Screenshot_3.png)
+
+</p>
+</details>
+
+<details><summary>switch case</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/Screenshot_4.png)
+
+</p>
+</details>
+<details><summary>some help</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/Screenshot_5.png)
+
+</p>
+</details>
+
+<details><summary>Variable Declaration</summary>
+<p>
+
+![Screenshot-image-link](task_js_basics/Screenshot_6.png)
+
 </p>
 </details>
 
