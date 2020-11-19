@@ -172,12 +172,12 @@ It was not easy, but I am sure I will understand a couple of things later. More 
 <details><summary>Some usefull screens</summary>
 <p>
 
-![Screenshot-image-link](task_js_basics/screenshot_1.png)
-![Screenshot-image-link](task_js_basics/screenshot_2.png)
-![Screenshot-image-link](task_js_basics/screenshot_3.png)
-![Screenshot-image-link](task_js_basics/screenshot_4.png)
-![Screenshot-image-link](task_js_basics/screenshot_5.png)
-![Screenshot-image-link](task_js_basics/screenshot_6.png)
+![Screenshot-image-link](task_js_basics/Screenshot_1.png)
+![Screenshot-image-link](task_js_basics/Screenshot_2.png)
+![Screenshot-image-link](task_js_basics/Screenshot_3.png)
+![Screenshot-image-link](task_js_basics/Screenshot_4.png)
+![Screenshot-image-link](task_js_basics/Screenshot_5.png)
+![Screenshot-image-link](task_js_basics/Screenshot_6.png)
 
 </p>
 </details>
