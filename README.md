@@ -168,6 +168,7 @@ Interesting, repeated few things for myself.
 ## JS Basics
 
 It was not easy, but I am sure I will understand a couple of things later. More practice - more confidence.
+Almost everything was new to me. Trying my best to understand, to learn js.
 
 
 <details><summary>Logical operators</summary>
