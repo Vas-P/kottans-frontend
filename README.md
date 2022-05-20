@@ -142,7 +142,7 @@ Recently studied html and css, nothing new to me. Repeated some things like grid
 
 ## Responsive Web Design
 
-* Some useful link [Uzefule](https://kasinotbitcoin.com/) for research purposes.
+* Some useful link [bitcoin kasinot](https://kasinotbitcoin.com/) for research purposes.
  
 Interesting, repeated few things for myself.
 
